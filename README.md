@@ -1,3 +1,4 @@
+[![Build Status](https://nealrobben.visualstudio.com/HelloAzureDevops/_apis/build/status/nealrobben.pipelines-java?branchName=master)](https://nealrobben.visualstudio.com/HelloAzureDevops/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
